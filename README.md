@@ -7,3 +7,9 @@ Ejercicio donde haremos un merge sin fast forward.
         * `cd repo05` vamos dentro de la carpeta
         * `git init` iniciamos repositorio
       * Creamos un repositorio *REMOTO* público en la página de github.
+    * __Ej2__
+      * Creamos el archivo README.
+    * __Ej3__
+      * Creamos el archivo README.
+ 
+ 
