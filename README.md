@@ -10,6 +10,9 @@ Ejercicio donde haremos un merge sin fast forward.
     * __Ej2__
       * Creamos el archivo README.
     * __Ej3__
-      * Creamos el archivo README.
+      * Para crear el branch haremos lo siguiente en el terminal:
+        * `git branch name18052023` creamos un nuevo branch
+        * `git checkout name18052023` nos situamos en el branch
+    * __Ej5__
  
  
